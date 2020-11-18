@@ -84,6 +84,7 @@
       <change beforePath="$PROJECT_DIR$/../clojure1.4/test/clojure1/4_test.clj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/clojure2/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/clojure2/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/clojure2/core_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/clojure2/core_test.clj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +108,18 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Clojure Application.tests">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -129,7 +141,31 @@
       <setting name="fixLineNumbers" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Unnamed" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" nameIsGenerated="true">
+    <configuration name="clojure2.core-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="clojure2" />
+      <setting name="path" value="$PROJECT_DIR$/test/clojure2/core_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/clojure2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clojure2.core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="clojure2" />
+      <setting name="path" value="$PROJECT_DIR$/src/clojure2/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/clojure2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
       <module name="clojure2" />
       <setting name="path" value="" />
       <setting name="namespace" value="clojure2.core" />
@@ -141,6 +177,17 @@
       <setting name="workDir" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Clojure Application.tests" />
+      <item itemvalue="Clojure Application.clojure2.core-test" />
+      <item itemvalue="Clojure Application.clojure2.core" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.clojure2.core" />
+        <item itemvalue="Clojure Application.clojure2.core-test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -155,7 +202,8 @@
       <updated>1604465189371</updated>
       <workItem from="1604465209254" duration="5016000" />
       <workItem from="1604739953034" duration="301000" />
-      <workItem from="1604911235860" duration="5064000" />
+      <workItem from="1604911235860" duration="5666000" />
+      <workItem from="1605676525275" duration="6030000" />
     </task>
     <servers />
   </component>
@@ -163,22 +211,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1604917144647">
+    <state x="251" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605678295067">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1604917144647" />
-    <state width="1492" height="229" key="GridCell.Tab.0.center" timestamp="1604917144647">
+    <state x="251" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826@0.0.1536.826" timestamp="1605678295067" />
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1605682567784">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1604917144647" />
-    <state width="1492" height="229" key="GridCell.Tab.0.left" timestamp="1604917144647">
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+    <state width="1492" height="229" key="GridCell.Tab.0.center" timestamp="1605682567784">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1604917144647" />
-    <state width="1492" height="229" key="GridCell.Tab.0.right" timestamp="1604917144647">
+    <state width="1492" height="229" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+    <state width="1492" height="229" key="GridCell.Tab.0.left" timestamp="1605682567784">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1604917144647" />
+    <state width="1492" height="229" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+    <state width="1492" height="229" key="GridCell.Tab.0.right" timestamp="1605682567784">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
   </component>
   <component name="masterDetails">
     <states>
