@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ace6aaf7-351d-43a1-832e-98b5f9300dfc" name="Default Changelist" comment="" />
+    <list default="true" id="ace6aaf7-351d-43a1-832e-98b5f9300dfc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clojure1.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clojure1.4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/clojure1.4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../clojure1.4/clojure1.4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/src/clojure1/4.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../clojure1.4/src/clojure1/4.clj" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +19,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/clojure1/core.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
+            <state relative-caret-position="458">
               <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
             </state>
           </provider>
@@ -72,7 +77,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603778066100" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603778508996" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../clojure1.2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -178,12 +183,12 @@
       <workItem from="1601616643602" duration="267000" />
       <workItem from="1601622266146" duration="633000" />
       <workItem from="1602563871500" duration="168000" />
-      <workItem from="1603774055590" duration="4001000" />
+      <workItem from="1603774055590" duration="4167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22678000" />
+    <option name="totallyTimeSpent" value="22844000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,7 +212,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.34517047" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.34517047" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -252,7 +257,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clojure1/core.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="458">
           <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>

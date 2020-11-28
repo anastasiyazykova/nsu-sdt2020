@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c95aa297-47d7-4d09-ad10-f84e5b031e2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/libraries/Leiningen__nrepl_0_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/libraries/Leiningen__org_clojure_clojure_1_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/clojure1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/doc/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/project.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/src/clojure1/core.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.1/test/clojure1/core_test.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/dictionaries/azale_000.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/libraries/Leiningen__nrepl_0_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/libraries/Leiningen__org_clojure_clojure_1_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clojure1.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/clojure1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/doc/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/project.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.2/test/clojure1/core_test.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/libraries/Leiningen__nrepl_0_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/libraries/Leiningen__org_clojure_clojure_1_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/clojure1.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/doc/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/project.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/src/clojure1/3.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.3/test/clojure1/3_test.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/libraries/Leiningen__nrepl_0_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/libraries/Leiningen__org_clojure_clojure_1_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/doc/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/project.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clojure1.4/test/clojure1/4_test.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clojure2/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/clojure2/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/clojure2/core_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/clojure2/core_test.clj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k2uupmblP1FaQKoWgYZR2OpsoD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604470198830" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Clojure Application.tests">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clojure2.core-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="clojure2" />
+      <setting name="path" value="$PROJECT_DIR$/test/clojure2/core_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/clojure2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clojure2.core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="clojure2" />
+      <setting name="path" value="$PROJECT_DIR$/src/clojure2/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/clojure2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="clojure2" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="clojure2.core" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.tests" />
+      <item itemvalue="Clojure Application.clojure2.core-test" />
+      <item itemvalue="Clojure Application.clojure2.core" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.clojure2.core" />
+        <item itemvalue="Clojure Application.clojure2.core-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c95aa297-47d7-4d09-ad10-f84e5b031e2b" name="Default Changelist" comment="" />
+      <created>1604465189371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604465189371</updated>
+      <workItem from="1604465209254" duration="5016000" />
+      <workItem from="1604739953034" duration="301000" />
+      <workItem from="1604911235860" duration="5666000" />
+      <workItem from="1605676525275" duration="6030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="251" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605678295067">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="251" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826@0.0.1536.826" timestamp="1605678295067" />
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1605682567784">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+    <state width="1492" height="229" key="GridCell.Tab.0.center" timestamp="1605682567784">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+    <state width="1492" height="229" key="GridCell.Tab.0.left" timestamp="1605682567784">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+    <state width="1492" height="229" key="GridCell.Tab.0.right" timestamp="1605682567784">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
