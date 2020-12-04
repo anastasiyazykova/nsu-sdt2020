@@ -83,8 +83,6 @@
       <change beforePath="$PROJECT_DIR$/../clojure1.4/project.clj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../clojure1.4/test/clojure1/4_test.clj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clojure2/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/clojure2/core.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/clojure2/core_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/clojure2/core_test.clj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,22 +102,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604470198830" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test-methodslab2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunManager" selected="Clojure Application.tests">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -203,7 +190,8 @@
       <workItem from="1604465209254" duration="5016000" />
       <workItem from="1604739953034" duration="301000" />
       <workItem from="1604911235860" duration="5666000" />
-      <workItem from="1605676525275" duration="6030000" />
+      <workItem from="1605676525275" duration="6598000" />
+      <workItem from="1606280011277" duration="918000" />
     </task>
     <servers />
   </component>
@@ -215,22 +203,30 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="251" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826@0.0.1536.826" timestamp="1605678295067" />
-    <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1605682567784">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1606281073911">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
-    <state width="1492" height="229" key="GridCell.Tab.0.center" timestamp="1605682567784">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1606281073911" />
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1605683169271">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
-    <state width="1492" height="229" key="GridCell.Tab.0.left" timestamp="1605682567784">
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1605683169271" />
+    <state width="1492" height="229" key="GridCell.Tab.0.center" timestamp="1605683169270">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
-    <state width="1492" height="229" key="GridCell.Tab.0.right" timestamp="1605682567784">
+    <state width="1492" height="229" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1605683169270" />
+    <state width="1492" height="229" key="GridCell.Tab.0.left" timestamp="1605683169270">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="229" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1605682567784" />
+    <state width="1492" height="229" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1605683169270" />
+    <state width="1492" height="229" key="GridCell.Tab.0.right" timestamp="1605683169271">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1605683169271" />
+    <state x="209" y="96" key="new project wizard" timestamp="1605683133534">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="209" y="96" key="new project wizard/0.0.1536.826@0.0.1536.826" timestamp="1605683133534" />
   </component>
   <component name="masterDetails">
     <states>
